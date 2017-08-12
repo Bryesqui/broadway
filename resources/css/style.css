@@ -2,7 +2,7 @@ body{
   font-family: Helvetica;
   text-align: center;
 }
-.head_block p{
+a{
   text-decoration: underline;
   font-size: 18px;
   color: white;
@@ -41,4 +41,10 @@ background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freel
   #text{
     font-size: 14px;
     color: black;
+  }
+  .footer{
+    font-size: 11px;
+    background-color: dimgrey;
+    text-align: left;
+    color: white;
   }
